@@ -1,0 +1,70 @@
+  0 1 2 3 4 	t: 0, alive: 5
+0   x       
+1     x     
+2 x x x     
+3           
+4           
+
+  0 1 2 3 4 	t: 1, alive: 5
+0           
+1 x   x     
+2   x x     
+3   x       
+4           
+
+  0 1 2 3 4 	t: 2, alive: 5
+0           
+1     x     
+2 x   x     
+3   x x     
+4           
+
+  0 1 2 3 4 	t: 3, alive: 5
+0           
+1   x       
+2     x x   
+3   x x     
+4           
+
+  0 1 2 3 4 	t: 4, alive: 5
+0           
+1     x     
+2       x   
+3   x x x   
+4           
+
+  0 1 2 3 4 	t: 5, alive: 5
+0           
+1           
+2   x   x   
+3     x x   
+4     x     
+
+  0 1 2 3 4 	t: 6, alive: 5
+0           
+1           
+2       x   
+3   x   x   
+4     x x   
+
+  0 1 2 3 4 	t: 7, alive: 5
+0           
+1           
+2     x     
+3       x x 
+4     x x   
+
+  0 1 2 3 4 	t: 8, alive: 5
+0           
+1           
+2       x   
+3         x 
+4     x x x 
+
+  0 1 2 3 4 	t: 9, alive: 4
+0           
+1           
+2           
+3     x   x 
+4       x x 
+

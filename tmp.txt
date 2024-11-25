@@ -1,0 +1,53 @@
+taking 1 steps forward from t=0
+   0 1 2 3 	t: 0
+ 0 ▢ ▢ ■ ▢ 
+ 1 ■ ▢ ■ ▢ 
+ 2 ▢ ■ ■ ▢ 
+ 3 ▢ ▢ ▢ ▢ 
+
+
+   0 1 2 3 	t: 1
+ 0 ▢ ■ ▢ ▢ 
+ 1 ▢ ▢ ■ ■ 
+ 2 ▢ ■ ■ ▢ 
+ 3 ▢ ▢ ▢ ▢ 
+
+
+taking 1 steps backwards from t=1
+   0 1 2 3 	t: 1
+ 0 ▢ ■ ▢ ▢ 
+ 1 ▢ ▢ ■ ■ 
+ 2 ▢ ■ ■ ▢ 
+ 3 ▢ ▢ ▢ ▢ 
+
+
+curr_sum:  6
+curr_sum:  5
+curr_sum:  5
+curr_sum:  6
+curr_sum:  6
+curr_sum:  5
+curr_sum:  5
+curr_sum:  6
+   0 1 2 3 	t: 0
+ 0 ▢ ■ ▢ ▢ 
+ 1 ▢ ▢ ■ ▢ 
+ 2 ■ ■ ■ ▢ 
+ 3 ▢ ▢ ▢ ▢ 
+
+
+taking 1 steps forward from t=0
+   0 1 2 3 	t: 0
+ 0 ▢ ■ ▢ ▢ 
+ 1 ▢ ▢ ■ ▢ 
+ 2 ■ ■ ■ ▢ 
+ 3 ▢ ▢ ▢ ▢ 
+
+
+   0 1 2 3 	t: 1
+ 0 ▢ ▢ ▢ ▢ 
+ 1 ■ ▢ ■ ▢ 
+ 2 ▢ ■ ■ ▢ 
+ 3 ▢ ■ ▢ ▢ 
+
+
