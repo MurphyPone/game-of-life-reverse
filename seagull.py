@@ -252,7 +252,8 @@ class Board():
     
 if __name__ == "__main__":
     b = Board.make_glider(4)
-    b.play(2)
+    b.play(1)
     b.rewind(1)
-    # print(Board.get_id(b._board))
+    b.play(1)
+    b.rewind(1)
         
